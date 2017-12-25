@@ -1,6 +1,6 @@
 ### Twitter Weather App
 
-This is a twitter app that response to tweets with the weather in a given city. For this app to work, the city must be one work and be the hashtag of the tweet.
+This is a twitter app that response to tweets with the weather in a given US city. For this app to work, the city must be one word and be the hashtag of the tweet.
 
 For example, #montebello, #chicago, or #austin.
 
